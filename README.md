@@ -6,9 +6,9 @@ Kotlin 앱, Flask API, 차량 탐지·분류 모델을 연결해 **파일 업로
 
 ## 시연 영상
 
-[▶ 차량 분석 결과 영상 — result_test.mp4](docs/result_test.mp4)
+<video src="https://github.com/dolele092-source/vehicle-analysis-system/raw/refs/heads/main/docs/result_test.mp4" controls="controls" width="960"></video>
 
-프로젝트에서 생성한 분석 결과 영상입니다. GitHub에서 재생되지 않는 경우 파일을 다운로드해 확인할 수 있습니다.
+차량 분석 결과 시연 영상입니다. 재생 버튼을 눌러 확인할 수 있습니다.
 
 ## 직접 수행한 작업
 
